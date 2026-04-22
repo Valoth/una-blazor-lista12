@@ -76,3 +76,4 @@ C:\Users\luaga\Documents\EcoMonitor\obj\Debug\net9.0\EcoMonitor.pdb
 C:\Users\luaga\Documents\EcoMonitor\obj\Debug\net9.0\EcoMonitor.genruntimeconfig.cache
 C:\Users\luaga\Documents\EcoMonitor\obj\Debug\net9.0\ref\EcoMonitor.dll
 C:\Users\luaga\Documents\EcoMonitor\obj\Debug\net9.0\compressed\uh8chraupr-4j77t7xnd9.gz
+C:\Users\luaga\Documents\EcoMonitor\obj\Debug\net9.0\EcoMonitor.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcoMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9f0f86782df3926dbcaa890911e462165df0dd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcoMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcoMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
