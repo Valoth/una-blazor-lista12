@@ -5,7 +5,8 @@ Nome: Luan Mauricio
 Curso: Ciência da Computação
 
 ---
-
+![Tela](ecoMonitor/exemplo.png)
+---
 ## Heurísticas de Nielsen
 
 - **Visibilidade do Status do Sistema**: O sistema apresenta o total acumulado em tempo real, permitindo ao usuário acompanhar seu progresso de forma clara.
