@@ -1,17 +1,24 @@
 # EcoMonitor
 
 ## Identificação
-Nome: Luan  
-Curso: (seu curso aqui)
+Nome: Luan Mauricio  
+Curso: Ciência da Computação
 
 ---
 
-## Descrição do Projeto
-O EcoMonitor é um sistema de gamificação ambiental desenvolvido em Blazor, que permite ao usuário registrar ações sustentáveis e acompanhar seu impacto em tempo real.
+## Heurísticas de Nielsen
+
+- **Visibilidade do Status do Sistema**: O sistema apresenta o total acumulado em tempo real, permitindo ao usuário acompanhar seu progresso de forma clara.
+
+- **Feedback do Usuário**: Ao clicar no botão "Registrar Atividade", o sistema responde imediatamente atualizando o contador e a barra de progresso.
 
 ---
 
 ## Guia de Execução
 
+Para executar o projeto, siga os passos abaixo:
+
 ```bash
+git clone https://github.com/SEU_USUARIO/una-blazor-lista12.git
+cd una-blazor-lista12
 dotnet run
